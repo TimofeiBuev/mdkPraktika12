@@ -25,6 +25,9 @@
                     case 3:
                         Console.WriteLine(a + b);
                         break;
+                    case 4:
+                        Console.WriteLine(a - b);
+                        break;
                     default:
                         Console.WriteLine("Введены неверные данные");
                         break;
